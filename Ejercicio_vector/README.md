@@ -4,4 +4,5 @@
 2) El ejercicio se trata de almacenar numeros negativos o positivos en un vector, al final imprimir:
 
 -Cantidad de numeros negativos y positivos que hay en el vector
+
 -Promedio de los numeros negativos y positivos que hay en el vector
